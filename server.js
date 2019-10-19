@@ -29,4 +29,4 @@ if(message.content.startsWith(prefix+"private2")){
    }
 });
 
-client.login("NjM1MDc1NDMxMDQ0ODc0MjQw.XasMog.c7GbrbayOZzo7wfQNxQuOrgi1ZU")
+client.login("NjM1MDc1NDMxMDQ0ODc0MjQw.XasZUg.a-SG8vVV41cm8wIvMhzvO9Fsy_Q")
